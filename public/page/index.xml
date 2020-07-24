@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Stenio HQ</title>
+    <link>http://example.org/page/</link>
+    <description>Recent content in Pages on Stenio HQ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Music</title>
+      <link>http://example.org/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/music/</guid>
+      <description>Mínimo is a Spanish word that roughly translate to Minimal.
+Minimo is a minimalist theme for Hugo.
+Minimo keeps the focus on your content and lets it shine!</description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>http://example.org/tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/</guid>
+      <description>Mínimo is a Spanish word that roughly translate to Minimal.
+Minimo is a minimalist theme for Hugo.
+Minimo keeps the focus on your content and lets it shine!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Mínimo is a Spanish word that roughly translate to Minimal.
+Minimo is a minimalist theme for Hugo.
+Minimo keeps the focus on your content and lets it shine!</description>
+    </item>
+    
+  </channel>
+</rss>
