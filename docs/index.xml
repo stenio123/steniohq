@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Stenio HQ</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Home on Stenio HQ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Jul 2020 17:10:21 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Music</title>
+      <link>http://example.org/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/music/</guid>
+      <description>Mínimo is a Spanish word that roughly translate to Minimal.
+Minimo is a minimalist theme for Hugo.
+Minimo keeps the focus on your content and lets it shine!</description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>http://example.org/tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/</guid>
+      <description>Mínimo is a Spanish word that roughly translate to Minimal.
+Minimo is a minimalist theme for Hugo.
+Minimo keeps the focus on your content and lets it shine!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Mínimo is a Spanish word that roughly translate to Minimal.
+Minimo is a minimalist theme for Hugo.
+Minimo keeps the focus on your content and lets it shine!</description>
+    </item>
+    
+    <item>
+      <title>My First Music Post</title>
+      <link>http://example.org/music/first-music-post/</link>
+      <pubDate>Fri, 24 Jul 2020 17:10:21 -0400</pubDate>
+      
+      <guid>http://example.org/music/first-music-post/</guid>
+      <description>Test Music</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Fri, 24 Jul 2020 17:10:21 -0400</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/tech/first-tech-post/</link>
+      <pubDate>Fri, 24 Jul 2020 17:10:21 -0400</pubDate>
+      
+      <guid>http://example.org/tech/first-tech-post/</guid>
+      <description>Test Tech</description>
+    </item>
+    
+  </channel>
+</rss>
