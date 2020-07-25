@@ -1,5 +1,5 @@
 publishDir = "docs"
-staticDir = "docs"
+relativeURLs = true
 
 baseURL = "http://example.org/"
 languageCode = "en-us"
