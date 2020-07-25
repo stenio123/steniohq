@@ -20,6 +20,16 @@
   </url>
   
   <url>
+    <loc>http://example.org/tags/github/</loc>
+    <lastmod>2020-07-24T17:10:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/first-tech-post/</loc>
+    <lastmod>2020-07-24T17:10:21-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/music/</loc>
     <lastmod>2020-07-24T17:10:21-04:00</lastmod>
   </url>
@@ -35,12 +45,17 @@
   </url>
   
   <url>
-    <loc>http://example.org/tech/first-tech-post/</loc>
+    <loc>http://example.org/posts/</loc>
     <lastmod>2020-07-24T17:10:21-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2020-07-24T17:10:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/tech/</loc>
     <lastmod>2020-07-24T17:10:21-04:00</lastmod>
   </url>
   
@@ -63,10 +78,6 @@
   
   <url>
     <loc>http://example.org/series/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
   </url>
   
 </urlset>

@@ -45,6 +45,17 @@ Minimo keeps the focus on your content and lets it shine!</description>
     </item>
     
     <item>
+      <title>GitHub.com Repo Sweeper</title>
+      <link>http://example.org/tech/first-tech-post/</link>
+      <pubDate>Fri, 24 Jul 2020 17:10:21 -0400</pubDate>
+      
+      <guid>http://example.org/tech/first-tech-post/</guid>
+      <description>Too many repositories on your Github account?
+Checkout GitSweeper, makes it easy to keep your GitHub.com account tidy
+https://medium.com/@taylorjayoung/the-easiest-way-to-delete-multiple-github-repositories-at-once-e71e16734b59</description>
+    </item>
+    
+    <item>
       <title>My First Music Post</title>
       <link>http://example.org/music/first-music-post/</link>
       <pubDate>Fri, 24 Jul 2020 17:10:21 -0400</pubDate>
@@ -60,15 +71,6 @@ Minimo keeps the focus on your content and lets it shine!</description>
       
       <guid>http://example.org/posts/my-first-post/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://example.org/tech/first-tech-post/</link>
-      <pubDate>Fri, 24 Jul 2020 17:10:21 -0400</pubDate>
-      
-      <guid>http://example.org/tech/first-tech-post/</guid>
-      <description>Test Tech</description>
     </item>
     
   </channel>
