@@ -1,7 +1,7 @@
 ---
 title: Tech
 description: What does Minimo even means?!
-menu: main
+menu: sidebar
 weight: -200
 ---
 
